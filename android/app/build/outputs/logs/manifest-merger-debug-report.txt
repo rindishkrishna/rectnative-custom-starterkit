@@ -1,0 +1,261 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_masked-view] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\c3dd88dfeb575f500c1c15d3272822bb\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\259e7ac45fb8348ab28652bd29b141b2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\953f97ba9cf510cc21b49dd187608c94\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\e16351dbd73a5b3aba6fb75ecb6024c5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\d24b66f1af93d827a516879fe4d3f129\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\a1d20365d063384d95268607a99a23b5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\11303de621e702b50c6e83772c076ed8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\f967b9ea5c5fa1e54df7a45b09553af2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\70ff3ebda4fe3a794dbd3142baa2f00f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\f936eac5d13ebaceb3a4957f04895c56\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\15e963fba1ed99c4cfd88298f99272b7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\51f3cc54a1a1f737b67345ab59e34b64\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\36ad833f56765d845c7c0d0efe55b56b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\deea2af8f6eae93630779d94f7d31dfb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\1d868de9ed2e4212110c81cd0e03211c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\b92cf3392657b89956e516e914c029a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\d40b117c6830895529651166cef1c353\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\5408315dda072488fb04f1636d1ef8cd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\9bc69ea514d273df0c1632fb50fcfc46\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\c0d668b2ed977a655d59106a31b86c97\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\bed6d6a28a8c0f0fef4a56d9b2d29889\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\7c42e54d5f82afe2cefd4276863c442e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\4c7e8ef9951bb7012276be9ac86c6b3b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\a25fff14f48cec29d6bcb62738219564\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\feafdc3ccce7156c255d1b075d263817\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\44a896c6787f94c71ba4e8cd29eaa434\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\2917678da59f8b056ef7ab26153688b9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\b6045d141d187f74c14ef07e9826865b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\1410caf027fcd25cca70908cfce043ff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\e9d9b56b1cfcca0100d69e36c479d40e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\56f51da6f0b5aed669c74f12ded786c0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\aa2ad18a18d345abb4e7713e64335ed0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\fcf9d1995f0e54c9fa58d85af583c241\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\4a768a64336ffb772673475b16936b2c\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\ac092626dc7946cb1dae60e97637ed18\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\a718eca54c494b4ccdf3e8e641a50e43\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\3826abe4a0874997f3b84d4310a47350\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\fecaf90ae26daba770a8f5209c049a0b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\efb8f4c9aad649c5bdb0422b21d6fa9b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\331c33ed8f14796c4111fa2a10b87b15\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\a8eb634e5429d776f366ef43c503736f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\73b075112f31af51cda84739eeff417b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\6d93e76c0a06dee8a5682b14eb9f69c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\51f206b0c49843ff82d7ea1a2a02c8db\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:2:3-32
+		INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:2:3-32
+		INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\c3dd88dfeb575f500c1c15d3272822bb\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\c3dd88dfeb575f500c1c15d3272822bb\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\953f97ba9cf510cc21b49dd187608c94\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\953f97ba9cf510cc21b49dd187608c94\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\51f3cc54a1a1f737b67345ab59e34b64\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\51f3cc54a1a1f737b67345ab59e34b64\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\56f51da6f0b5aed669c74f12ded786c0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\56f51da6f0b5aed669c74f12ded786c0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\4a768a64336ffb772673475b16936b2c\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\4a768a64336ffb772673475b16936b2c\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\56f51da6f0b5aed669c74f12ded786c0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.moneymanagement.MainActivity
+ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml
+MERGED from [:@react-native-community_masked-view] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\rindi\WebstormProjects\moneymanagement\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\c3dd88dfeb575f500c1c15d3272822bb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\c3dd88dfeb575f500c1c15d3272822bb\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\259e7ac45fb8348ab28652bd29b141b2\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\259e7ac45fb8348ab28652bd29b141b2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\953f97ba9cf510cc21b49dd187608c94\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\953f97ba9cf510cc21b49dd187608c94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\e16351dbd73a5b3aba6fb75ecb6024c5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\e16351dbd73a5b3aba6fb75ecb6024c5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\d24b66f1af93d827a516879fe4d3f129\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\d24b66f1af93d827a516879fe4d3f129\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\a1d20365d063384d95268607a99a23b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\a1d20365d063384d95268607a99a23b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\11303de621e702b50c6e83772c076ed8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\11303de621e702b50c6e83772c076ed8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\f967b9ea5c5fa1e54df7a45b09553af2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\f967b9ea5c5fa1e54df7a45b09553af2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\70ff3ebda4fe3a794dbd3142baa2f00f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\70ff3ebda4fe3a794dbd3142baa2f00f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\f936eac5d13ebaceb3a4957f04895c56\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\f936eac5d13ebaceb3a4957f04895c56\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\15e963fba1ed99c4cfd88298f99272b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\15e963fba1ed99c4cfd88298f99272b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\51f3cc54a1a1f737b67345ab59e34b64\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\51f3cc54a1a1f737b67345ab59e34b64\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\36ad833f56765d845c7c0d0efe55b56b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\36ad833f56765d845c7c0d0efe55b56b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\deea2af8f6eae93630779d94f7d31dfb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\deea2af8f6eae93630779d94f7d31dfb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\1d868de9ed2e4212110c81cd0e03211c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\1d868de9ed2e4212110c81cd0e03211c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\b92cf3392657b89956e516e914c029a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\b92cf3392657b89956e516e914c029a2\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\d40b117c6830895529651166cef1c353\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\d40b117c6830895529651166cef1c353\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\5408315dda072488fb04f1636d1ef8cd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\5408315dda072488fb04f1636d1ef8cd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\9bc69ea514d273df0c1632fb50fcfc46\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\9bc69ea514d273df0c1632fb50fcfc46\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\c0d668b2ed977a655d59106a31b86c97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\c0d668b2ed977a655d59106a31b86c97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\bed6d6a28a8c0f0fef4a56d9b2d29889\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\bed6d6a28a8c0f0fef4a56d9b2d29889\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\7c42e54d5f82afe2cefd4276863c442e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\7c42e54d5f82afe2cefd4276863c442e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\4c7e8ef9951bb7012276be9ac86c6b3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\4c7e8ef9951bb7012276be9ac86c6b3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\a25fff14f48cec29d6bcb62738219564\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\a25fff14f48cec29d6bcb62738219564\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\feafdc3ccce7156c255d1b075d263817\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\feafdc3ccce7156c255d1b075d263817\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\44a896c6787f94c71ba4e8cd29eaa434\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\44a896c6787f94c71ba4e8cd29eaa434\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\2917678da59f8b056ef7ab26153688b9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\2917678da59f8b056ef7ab26153688b9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\b6045d141d187f74c14ef07e9826865b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\b6045d141d187f74c14ef07e9826865b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\1410caf027fcd25cca70908cfce043ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\1410caf027fcd25cca70908cfce043ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\e9d9b56b1cfcca0100d69e36c479d40e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\e9d9b56b1cfcca0100d69e36c479d40e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\56f51da6f0b5aed669c74f12ded786c0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\56f51da6f0b5aed669c74f12ded786c0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\aa2ad18a18d345abb4e7713e64335ed0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\aa2ad18a18d345abb4e7713e64335ed0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\fcf9d1995f0e54c9fa58d85af583c241\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\fcf9d1995f0e54c9fa58d85af583c241\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\4a768a64336ffb772673475b16936b2c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\4a768a64336ffb772673475b16936b2c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\ac092626dc7946cb1dae60e97637ed18\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\ac092626dc7946cb1dae60e97637ed18\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\a718eca54c494b4ccdf3e8e641a50e43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\a718eca54c494b4ccdf3e8e641a50e43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\3826abe4a0874997f3b84d4310a47350\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\3826abe4a0874997f3b84d4310a47350\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\fecaf90ae26daba770a8f5209c049a0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\fecaf90ae26daba770a8f5209c049a0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\efb8f4c9aad649c5bdb0422b21d6fa9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\efb8f4c9aad649c5bdb0422b21d6fa9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\331c33ed8f14796c4111fa2a10b87b15\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\331c33ed8f14796c4111fa2a10b87b15\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\a8eb634e5429d776f366ef43c503736f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\a8eb634e5429d776f366ef43c503736f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\73b075112f31af51cda84739eeff417b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\73b075112f31af51cda84739eeff417b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\6d93e76c0a06dee8a5682b14eb9f69c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\6d93e76c0a06dee8a5682b14eb9f69c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\51f206b0c49843ff82d7ea1a2a02c8db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rindi\.gradle\caches\transforms-2\files-2.1\51f206b0c49843ff82d7ea1a2a02c8db\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\rindi\WebstormProjects\moneymanagement\android\app\src\debug\AndroidManifest.xml:5:22-75
